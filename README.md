@@ -1,7 +1,23 @@
 # Mumma-Moppet-App
 *Mumma's Moppet native app!*
 
-![](/imgs/signup.jpeg)
-![](/imgs/choose.jpeg)
-![](/imgs/dashboard.jpeg)
-![](/imgs/notes.jpeg)
+<br>
+<div align="left">
+    <img src="/imgs/signup.jpeg" width="150px"</img> 
+</div>
+<br>
+
+<div align="left">
+    <img src="/imgs/choose.jpeg" width="150px"</img> 
+</div>
+<br>
+
+<div align="left">
+    <img src="/imgs/dashboard.jpeg" width="150px"</img> 
+</div>
+<br>
+
+<div align="left">
+    <img src="/imgs/notes.jpeg" width="150px"</img> 
+</div>
+<br>
